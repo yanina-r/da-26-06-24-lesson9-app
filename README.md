@@ -37,7 +37,14 @@ The main page of the application with text boxes for entering stock symbols, sli
  - Displays an image. Can be used to add illustrations or additional content.
 
 9. **st.balloons**
-   - Shows a balloon animation after the data download is complete. Adds an effect to a web application.
+- Shows a balloon animation after the data download is complete. Adds an effect to a web application.
 
 10. **st.components.v1.html**
  - Displays HTML code with a link to Nasdaq for additional resources. Can be used to embed external content.
+
+## Results
+Downloading stock data, viewing tables and graphs, switching between stocks, and additional features of the web application.
+![Screenshot](img/Знімок%20екрана%202024-08-04%20о%2018.35.14.png)
+
+## Conclusion
+The web application provides a convenient interface for downloading, viewing and analyzing stock data. The Streamlit techniques used help make the application interactive and user-friendly, providing data display in tables and graphs, as well as additional elements to improve the user experience.
