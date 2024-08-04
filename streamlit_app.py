@@ -71,7 +71,7 @@ if st.sidebar.button('Fetch Data'):
             st.line_chart(df_combined)
 
             # Відображення зображення
-            st.image('/workspaces/da-26-06-24-lesson9-app/img/thanks.jpeg', use_column_width=True)
+            st.image('/img/thanks.jpeg', use_column_width=True)
             
             # Виведення HTML-коду з посиланням на Nasdaq
             html_code = """
