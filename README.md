@@ -9,7 +9,7 @@ Built with Streamlit, this web application allows users to download stock data, 
 
 ## Application interface
 The main page of the application with text boxes for entering stock symbols, sliders for selecting a date range, a button for uploading data and other controls.
-![Screenshot](img/Знімок екрана 2024-08-04 о 18.35.14.png.)
+![Screenshot](img/Знімок%20екрана%202024-08-04%20о%2018.35.14.png)
 
 ## Description of the Streamlit methods
 1.st.text_input
