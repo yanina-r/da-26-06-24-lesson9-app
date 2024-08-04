@@ -10,6 +10,7 @@ Built with Streamlit, this web application allows users to download stock data, 
 ## Application interface
 The main page of the application with text boxes for entering stock symbols, sliders for selecting a date range, a button for uploading data and other controls.
 
+
 ## Description of the Streamlit methods
 1.st.text_input
-  Used to enter stock symbols (eg AAPL for Apple). The user can enter up to two stock symbols for further analysis.
+  - Used to enter stock symbols (eg AAPL for Apple). The user can enter up to two stock symbols for further analysis.
