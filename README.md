@@ -1,19 +1,15 @@
-# 🎈 Blank app template
+# 🎈 Lesson 9 app
 
-A simple Streamlit app template for you to modify!
+I created a simple Streamlit app!
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://da-26-06-24-9-app.streamlit.app/)
 
-### How to run it on your own machine
+### Web Application for Stock Analysis
+Built with Streamlit, this web application allows users to download stock data, view it as tables and graphs, and interact with various visualizations for analysis
 
-1. Install the requirements
+## Application interface
+The main page of the application with text boxes for entering stock symbols, sliders for selecting a date range, a button for uploading data and other controls.
 
-   ```
-   $ pip install -r requirements.txt
-   ```
-
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+## Description of the Streamlit methods
+1.st.text_input
+  Used to enter stock symbols (eg AAPL for Apple). The user can enter up to two stock symbols for further analysis.
