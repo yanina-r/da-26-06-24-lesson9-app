@@ -12,13 +12,13 @@ The main page of the application with text boxes for entering stock symbols, sli
 ![Screenshot](img/Знімок%20екрана%202024-08-04%20о%2018.35.14.png)
 
 ## Description of the Streamlit methods
-1.st.text_input
+1. #st.text_input
   - Used to enter stock symbols (eg AAPL for Apple). The user can enter up to two stock symbols for further analysis.
 
-2.st.slider
+2. #st.slider
  - Allows users to select a range of years to analyze stock data. The selected years are used for data loading.
 
-3.st.button
+3. #st.button
  - A button that starts the data download process for the selected stock symbols.
 
 4. st.spinner
