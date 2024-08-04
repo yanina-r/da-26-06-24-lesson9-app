@@ -44,7 +44,8 @@ The main page of the application with text boxes for entering stock symbols, sli
 
 ## Results
 Downloading stock data, viewing tables and graphs, switching between stocks, and additional features of the web application.
-![Screenshot](img/Знімок%20екрана%202024-08-04%20о%2018.35.14.png)
+![Screenshot](img/Знімок%20екрана%202024-08-04%20о%2018.52.07.png)
+![Screenshot](img/Знімок%20екрана%202024-08-04%20о%2018.52.15.png)
 
 ## Conclusion
 The web application provides a convenient interface for downloading, viewing and analyzing stock data. The Streamlit techniques used help make the application interactive and user-friendly, providing data display in tables and graphs, as well as additional elements to improve the user experience.
